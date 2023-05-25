@@ -1,6 +1,4 @@
-## Data Visualisation Monash Boot Camp. Crowdfunding_ETL Project 2 Group 10. 
-## Contributors: 
-### Micah Raquena-Pequeno, Graham Meadon, Richard Soos
+<!-- ## Data Visualisation Monash Boot Camp. Crowdfunding_ETL Project. 
 #
 ## Project Technology: 
 ###                     This project is written in Python with Pandas extensions to receive xlsx data.
@@ -41,4 +39,4 @@
 ### crowdfunding_db_schema.sql to create table structures before loading.
 #
 ### The relational database diagram has been created with https://app.quickdatabasediagrams.com/
-### Participants of this projet may be contacted at gmeadon@gmail.com, soos.richard5005@gmail.com
+ -->
