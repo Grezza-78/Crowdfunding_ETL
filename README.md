@@ -13,7 +13,7 @@ Crowdfunding data has been supplied,  listed by company, with their support back
 The resultant database is easier to query the fortune of crowdfunding campaigns by business category or business subcategory.
 
 **Key Files**
-   *ELT_Mini_Project_MRaquenaPequeno.ipynb
+   *ETL_Mini_Project_GMeadon.ipynb
    *campaign.csv 
    *category.csv
    *contacts.csv
